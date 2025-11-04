@@ -27,3 +27,13 @@ margin-bottom: 5vh;
     width: auto;
 }
 
+footer {
+background-color: cadetblue;
+padding:5vh;
+
+}
+
+.logo{
+    width: 50%;
+}
+
