@@ -37,3 +37,15 @@ padding:5vh;
     width: 50%;
 }
 
+.card{
+    height: 100%;
+}
+
+.card-img-top{
+    background-color: transparent;
+    border: none;
+}
+
+.btn{
+    
+}
